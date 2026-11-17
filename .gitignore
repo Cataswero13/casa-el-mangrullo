@@ -1,0 +1,5 @@
+dist/
+node_modules/
+.vercel/
+# Originales sin editar (algunas tienen placas o la contraseña del wifi): no se suben
+assets/img/originales/
